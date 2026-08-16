@@ -18,21 +18,21 @@ console.log(var2)
 // try to add number + number = number 
 let temp1 = 20
 let temp2 = 30
-console.log('Type of this concatination is : ', typeof( temp1 + temp2),' sum is :', temp1 + temp2)
+console.log('Type of this concatination is : ' + typeof( temp1 + temp2 ) + ' sum is : ' + temp1 + temp2)
 
 // try to add string + string = String
 let temp3 = 'Shee'
 let temp4 = 'Ganeshay'
 let temp5 = 'Namaha'
-console.log('Type of this concatination is : ', typeof(temp3 + temp4 + temp5),' sum is :', temp3 + temp4 + temp5)
+console.log('Type of this concatination is : ', typeof( temp3 + temp4 + temp5 ) + ' sum is : ', temp3 + temp4 + temp5)
 
 
 // try to add number + string = String
 let temp6 = 3
 let temp7 = 'Netra'
-console.log('Type of this concatination is : ', typeof( temp6 + temp7 ),' sum is :', temp6 + temp7 )
+console.log('Type of this concatination is : '+ typeof( temp6 + temp7 ) + ' sum is : ', temp6 + temp7 )
 
 // try to add string + number = String
 let temp8 = 'Graha'
 let temp9 = 9
-console.log('Type of this concatination is : ', typeof( temp8+ temp9 ),' sum is :', temp8 + temp9 )
+console.log('Type of this concatination is : ', typeof( temp8 + temp9 ) + ' sum is : ' + temp9 + temp8 )
