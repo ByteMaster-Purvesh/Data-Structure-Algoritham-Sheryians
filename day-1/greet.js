@@ -4,6 +4,7 @@ function greet(name, age) {
         let nameLength = name.length
 
         if(nameLength <= 100 ) {
+            console.log("MahaKal")
             console.log("Hello "+ name + " you are " + age + " year old.")
         }
     }
