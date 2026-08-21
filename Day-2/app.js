@@ -16,7 +16,7 @@ console.log('\n Reversal value of Yugas')
 console.log('\n Chaturyug: ', chaturyug)
 console.log(' Manvanter: ', manvanter)
 
-
+// Swaping the values
 let a = 250
 let b = 360
 
